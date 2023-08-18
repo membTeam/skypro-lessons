@@ -4,4 +4,4 @@
 # lessons -r true -l lessonsName
 # -r true -> запускать проект
 # -l lessonsName строковый идентификатор запускаемого домашнего задания
-lesson -r true -i Lesson11
+lesson -r true -i Lesson12
