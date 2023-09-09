@@ -8,8 +8,8 @@ import java.util.regex.Pattern;
 import static devlAPI.APIprintService.*;
 
 public class ConfigData {
-    private String lesson;
-    private boolean runLesson;
+    private String lesson;      // Строковый идентификатор класса домЗдания
+    private boolean runLesson; // true -> запуск домЗадания
 
     public String getLesson() {
         return lesson;
